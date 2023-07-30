@@ -1,0 +1,51 @@
+.container{
+    display: flex;
+    width: 1,182px;
+    height: 522px;
+    margin-top: 180px;
+    margin-left: 129px;
+    gap: 5px;
+
+}
+
+.container img{
+    width: 649px;
+    height: 522px;
+
+}
+
+.container_text{
+    width: 528px;
+    height: 188px;
+    
+
+}
+
+.container_text h1{
+    font-family: Poppins;
+    font-size: 96px;
+    font-weight: 700;
+    line-height: 144px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 528px;
+    height: 144px;
+    margin-bottom: 0;
+
+
+}
+
+.container_text button{
+    width: 220px;
+    height: 44px;
+    padding: 10px 18px 10px 18px;
+    border-radius: 5px;
+    gap: 10px;
+    background-color: black;
+    color: #fff;
+    margin-left: 300px;
+    cursor: pointer;
+}
+.container_text button:hover{
+    background-color: #383838;
+}

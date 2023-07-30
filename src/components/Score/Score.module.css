@@ -1,0 +1,29 @@
+.score{
+    width: 135px;
+    height: 151px;
+    gap: 3px;
+    ;
+    
+
+}
+
+.score h1{
+    font-family: Poppins;
+    font-size: 100px;
+    font-weight: 500;
+    line-height:0;
+    letter-spacing: 0em;
+    margin-bottom: 50px;
+   
+
+}
+
+.score p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    letter-spacing: 0em;
+    
+
+}

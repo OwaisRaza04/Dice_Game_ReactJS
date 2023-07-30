@@ -1,0 +1,39 @@
+.rule_container{
+    width: 794px;
+    height: 150px;
+    margin-top: 50px; 
+    margin-left: 338px;
+    padding: 20px;
+    gap: 24px; 
+    background-color: #FBF1F1;
+    margin-bottom: 20px;
+}
+
+.rule_container h1{
+    margin-top: 0;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.instructions{
+    width: 754px;
+    height: 108px;
+    gap: 4px
+
+}
+
+.instructions p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 10px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 0;
+
+}
